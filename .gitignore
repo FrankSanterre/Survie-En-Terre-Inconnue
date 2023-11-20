@@ -1,0 +1,30 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Survie En Territoire Inconnu/Survie En Territoire Inconnu/.vs
+/Survie En Territoire Inconnu/Survie En Territoire Inconnu/obj/Release/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+/Survie En Territoire Inconnu/Survie En Territoire Inconnu/obj/Release/net7.0/Survie En Territoire Inconnu.AssemblyInfo.cs
+/Survie En Territoire Inconnu/Survie En Territoire Inconnu/obj/Release/net7.0/Survie En Territoire Inconnu.AssemblyInfoInputs.cache
+/Survie En Territoire Inconnu/Survie En Territoire Inconnu/obj/Release/net7.0/Survie En Territoire Inconnu.assets.cache
+/Survie En Territoire Inconnu/Survie En Territoire Inconnu/obj/Release/net7.0/Survie En Territoire Inconnu.GeneratedMSBuildEditorConfig.editorconfig
+/Survie En Territoire Inconnu/Survie En Territoire Inconnu/obj/Release/net7.0/Survie En Territoire Inconnu.GlobalUsings.g.cs
+/Survie En Territoire Inconnu/Survie En Territoire Inconnu/bin/Debug/net7.0/Survie En Territoire Inconnu.exe
+/Survie En Territoire Inconnu/Survie En Territoire Inconnu/bin/Debug/net7.0/Survie En Territoire Inconnu.dll
+/Survie En Territoire Inconnu/Survie En Territoire Inconnu/bin/Debug/net7.0/Survie En Territoire Inconnu.pdb
+/Survie En Territoire Inconnu/Survie En Territoire Inconnu/obj/project.assets.json
+/Survie En Territoire Inconnu/Survie En Territoire Inconnu/obj/project.nuget.cache
+/Survie En Territoire Inconnu/Survie En Territoire Inconnu/obj/Survie En Territoire Inconnu.csproj.nuget.dgspec.json
+/Survie En Territoire Inconnu/Survie En Territoire Inconnu/obj/Survie En Territoire Inconnu.csproj.nuget.g.props
+/Survie En Territoire Inconnu/Survie En Territoire Inconnu/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+/Survie En Territoire Inconnu/Survie En Territoire Inconnu/obj/Debug/net7.0/apphost.exe
+/Survie En Territoire Inconnu/Survie En Territoire Inconnu/obj/Debug/net7.0/Survie En Territoire Inconnu.AssemblyInfo.cs
+/Survie En Territoire Inconnu/Survie En Territoire Inconnu/obj/Debug/net7.0/Survie En Territoire Inconnu.assets.cache
+/Survie En Territoire Inconnu/Survie En Territoire Inconnu/obj/Debug/net7.0/Survie En Territoire Inconnu.csproj.CoreCompileInputs.cache
+/Survie En Territoire Inconnu/Survie En Territoire Inconnu/obj/Debug/net7.0/Survie En Territoire Inconnu.csproj.FileListAbsolute.txt
+/Survie En Territoire Inconnu/Survie En Territoire Inconnu/obj/Debug/net7.0/Survie En Territoire Inconnu.dll
+/Survie En Territoire Inconnu/Survie En Territoire Inconnu/obj/Debug/net7.0/Survie En Territoire Inconnu.GeneratedMSBuildEditorConfig.editorconfig
+/Survie En Territoire Inconnu/Survie En Territoire Inconnu/obj/Debug/net7.0/Survie En Territoire Inconnu.genruntimeconfig.cache
+/Survie En Territoire Inconnu/Survie En Territoire Inconnu/obj/Debug/net7.0/Survie En Territoire Inconnu.pdb
+/Survie En Territoire Inconnu/.vs
