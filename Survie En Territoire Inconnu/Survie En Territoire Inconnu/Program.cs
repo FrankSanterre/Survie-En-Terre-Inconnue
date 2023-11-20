@@ -9,6 +9,9 @@ namespace Survie_En_Territoire_Inconnu
         static void Main(string[] args)
         {
             
+
+            //mmm
+
             AfficherAccueil();
             AfficherIntroductionAuJeu();
             ExpliquerRegle();
@@ -115,7 +118,6 @@ namespace Survie_En_Territoire_Inconnu
         {
             int positionX = 0;
             int positionY = 0;
-            int 
             string biome = "maison";
             for (; ; )
             {
